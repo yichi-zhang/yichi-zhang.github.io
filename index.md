@@ -27,7 +27,7 @@ JASA.
 [code: listdtr](https://cran.r-project.org/package=listdtr)
 \)
 
-* Zhang, Y, Laber, E, Tsiatis, A, and Davidian, M (2015).
+* Zhang, Laber, Tsiatis, and Davidian (2015).
 Using decision lists to construct interpretable and parsimonious treatment regimes.
 Biometrics.
 \(
@@ -35,7 +35,7 @@ Biometrics.
 [code: listdtr](https://cran.r-project.org/package=listdtr)
 \)
 
-* Zhang, Y, Staicu, A-M, and Maity, A (2016).
+* Zhang, Staicu, and Maity (2016).
 Testing for additivity in non-parametric regression.
 CJS.
 \(
@@ -43,7 +43,7 @@ CJS.
 [code: lmeVarComp](https://cran.r-project.org/package=lmeVarComp)
 \)
 
-* Zhang, Y, Laber, E (2015).
+* Zhang, and Laber (2015).
 Comment on "An adaptive resampling test for detecting the presence of significant predictors".
 JASA.
 \(
