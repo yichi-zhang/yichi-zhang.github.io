@@ -1,15 +1,19 @@
+#
+
 ### Yichi Zhang
 
 Postdoctoral Researcher
 
 Department of Biostatistics, Harvard School of Public Health
 
+#
 
 #### Research Interests
 * Causal inference and precision medicine
 * Semi-supervised learning with applications to electronic health records
 * High-dimensional data analysis and and large scale computing
 
+#
 
 #### Publications
 * Zhang, Laber, Davidian, and Tsiatis (2017). 
@@ -44,6 +48,7 @@ JASA.
 [code: sdat](https://cran.r-project.org/package=sdat)
 \)
 
+#
 
 #### Contact
 
