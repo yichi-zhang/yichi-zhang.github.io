@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yichi Zhang
+---
+
 ### Yichi Zhang
 
 Postdoctoral Researcher
