@@ -8,6 +8,7 @@ title: Yichi Zhang
 Assistant Professor
 
 Department of Computer Science and Statistics
+
 University of Rhode Island
 
 ----------
@@ -20,7 +21,12 @@ University of Rhode Island
 ----------
 
 #### Publications
-* Zhang, Laber, Davidian, and Tsiatis (2017). 
+* Cai, **Zhang**, Ho, et al (2018). Association of Interleukin 6 Receptor Variant With Cardiovascular Disease Effects of Interleukin 6 Receptor Blocking Therapy: A Phenome-Wide Association Study. JAMA Cardiology.
+\(
+[text](https://jamanetwork.com/journals/jamacardiology/fullarticle/10.1001/jamacardio.2018.2287);
+\)
+
+* **Zhang**, Laber, Davidian, and Tsiatis (2017). 
 Estimation of optimal treatment regimes using lists. 
 JASA. 
 \(
@@ -28,7 +34,7 @@ JASA.
 [code: listdtr](https://cran.r-project.org/package=listdtr)
 \)
 
-* Zhang, Laber, Tsiatis, and Davidian (2015).
+* **Zhang**, Laber, Tsiatis, and Davidian (2015).
 Using decision lists to construct interpretable and parsimonious treatment regimes.
 Biometrics.
 \(
@@ -36,7 +42,7 @@ Biometrics.
 [code: listdtr](https://cran.r-project.org/package=listdtr)
 \)
 
-* Zhang, Staicu, and Maity (2016).
+* **Zhang**, Staicu, and Maity (2016).
 Testing for additivity in non-parametric regression.
 CJS.
 \(
@@ -44,7 +50,7 @@ CJS.
 [code: lmeVarComp](https://cran.r-project.org/package=lmeVarComp)
 \)
 
-* Zhang, and Laber (2015).
+* **Zhang**, and Laber (2015).
 Comment on "An adaptive resampling test for detecting the presence of significant predictors".
 JASA.
 \(
