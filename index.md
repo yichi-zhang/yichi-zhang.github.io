@@ -23,7 +23,7 @@ University of Rhode Island
 #### Publications
 * Cai, **Zhang**, Ho, et al (2018). Association of Interleukin 6 Receptor Variant With Cardiovascular Disease Effects of Interleukin 6 Receptor Blocking Therapy: A Phenome-Wide Association Study. JAMA Cardiology.
 \(
-[text](https://jamanetwork.com/journals/jamacardiology/fullarticle/10.1001/jamacardio.2018.2287);
+[text](https://jamanetwork.com/journals/jamacardiology/fullarticle/10.1001/jamacardio.2018.2287)
 \)
 
 * **Zhang**, Laber, Davidian, and Tsiatis (2017). 
