@@ -5,16 +5,17 @@ title: Yichi Zhang
 
 ### Yichi Zhang
 
-Postdoctoral Researcher
+Assistant Professor
 
-Department of Biostatistics, Harvard School of Public Health
+Department of Computer Science and Statistics
+University of Rhode Island
 
 ----------
 
 #### Research Interests
-* Causal inference and precision medicine
-* Semi-supervised learning with applications to electronic health records
-* High-dimensional data analysis and and large scale computing
+* Dynamic treatment regimes
+* Semi-supervised learning
+* High-dimensional data analysis
 
 ----------
 
@@ -56,6 +57,6 @@ JASA.
 #### Contact
 
 ```python
-email = "{firstname}{lastname}@hsph.harvard.edu".format(firstname="yichi", lastname="zhang")
+email = "{firstname}{lastname}@uri.edu".format(firstname="yichi", lastname="zhang")
 ```
 
